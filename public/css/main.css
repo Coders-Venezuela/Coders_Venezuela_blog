@@ -1,0 +1,45 @@
+html,body{
+	height: 100%;
+}
+.full-height{
+	height: 100%;
+}
+.navbar {
+    background-color: #F7F7F7 !important;
+}
+
+.navbar-brand {
+    color: #5697ff !important;
+}
+.big {
+  font-size: 35px;
+}
+
+.mediano {
+	font-size: 30px; 
+}
+
+.panel-heading {
+    background-color: #5697ff !important;
+    color: white !important;
+}
+
+.well {
+	-webkit-border-radius: 10px 15px;
+    -moz-border-radius: 10px 15px; 
+	background-color: #910010;
+	color: white;
+}
+.no-float {
+	float: none;
+}
+.top-space {
+	margin-top: 100px;
+}
+.description {
+	width: 20%;
+	height: 50px;
+	overflow: hidden;
+	white-space: all;
+	text-overflow: ellipsis;
+}

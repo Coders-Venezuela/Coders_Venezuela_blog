@@ -1,0 +1,23 @@
+{
+  "name": "mernve",
+  "version": "1.0.0",
+  "description": "comunidad para crear blog venezuela",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djassiel/mern-venezuela.git"
+  },
+  "author": "MernVe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djassiel/mern-venezuela/issues"
+  },
+  "homepage": "https://github.com/djassiel/mern-venezuela#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.1"
+  }
+}
