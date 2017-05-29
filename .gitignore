@@ -1,0 +1,3 @@
+#Es donde estaran las carpetas que no queremos
+#Que suban al repo en github
+node_modules
